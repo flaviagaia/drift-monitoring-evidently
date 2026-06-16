@@ -154,4 +154,15 @@ trigger — the retrain decision depends on business impact, not the p-value alo
 
 ---
 
+## Referências científicas (crédito aos autores)
+
+- Gama et al. (2014). A Survey on Concept Drift Adaptation. ACM Computing Surveys.
+- Rabanser, Günnemann & Lipton (2019). Failing Loudly: Detecting Dataset Shift. NeurIPS — inclui o classificador de domínio (two-sample).
+- PSI (Population Stability Index): métrica consolidada de risco de crédito. KS: teste de Kolmogorov-Smirnov.
+- Evidently AI: biblioteca de monitoramento de ML (camada opcional).
+
+Este repositório é uma reimplementação didática e offline dessas ideias.
+
+---
+
 Part of my LinkedIn series on LLMOps → [Flávia Gaia](https://www.linkedin.com/in/flavia-gaia/)
